@@ -722,7 +722,7 @@
         "SourceCodePro-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/sharetechmono/ShareTechMono-Regular.ttf"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/YOURNAME/nightcity-theme/main/nightcity-bg.png",
+        "url": "https://raw.githubusercontent.com/ChaoticMonkey/nightcity-theme/main/nightcity-bg.png",
         "blur": 0,
         "alpha": 0.85
     }
